@@ -1,5 +1,8 @@
 ## HOUR 3 <br>
-In this hours, I learnt:<br>
+### In these hours, I learnt:<br>
+
+```c
+
 Constants <br>
 Expressions <br>
 Statements <br>
@@ -8,3 +11,4 @@ Variables <br>
 Operators <br>
 Functions <br>
 Function call <br>
+```
