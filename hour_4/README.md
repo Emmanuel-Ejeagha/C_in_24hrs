@@ -1,6 +1,6 @@
 # Hour 4 <br>
-###In This Hour, I learnt about <br>
-> aypes such as:
+### In This Hour, I learnt about <br>
+dataypes such as:
 char
 int 
 float
