@@ -2,13 +2,7 @@
 
 int main(void)
 {
-	int counter = 0;
-
-	while (counter <= 5);
-	{
-		printf("%d", counter);
-		++counter;
-	}
+	for (int counter = 0; counter <= 5; ++counter)
+		printf("%d ", counter);
 	puts("");
-
 }
